@@ -1,0 +1,42 @@
+body
+{
+  text-align: center;
+}
+#canvas
+{
+ border: 2px solid whitesmoke;
+ border-radius: 10px;
+ margin-top: 130px;
+ box-shadow: 5px 5px 5px aquamarine;
+}
+.Pp
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.footer{
+    background-color: grey;
+    width: 100%;
+    margin-bottom: 0px;
+    color: white;
+    line-height: 2;
+    bottom: 0px;
+    position: sticky;
+}
+.modal-body{
+    text-align: left;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
+}
